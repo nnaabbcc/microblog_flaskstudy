@@ -7,6 +7,5 @@ from app import app
 def index():
     user = { 'nickname': 'Yulang' }
     return render_template('index.html',
-            title = 'Home',
             user = user)
 
