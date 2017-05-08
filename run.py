@@ -1,4 +1,4 @@
-#!flask/bin/python
+#!/usr/bin/env python
 
 # Learn from http://www.pythondoc.com/flask-mega-tutorial/index.html
 from app import app
